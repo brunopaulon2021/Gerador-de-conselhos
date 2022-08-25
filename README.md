@@ -1,4 +1,4 @@
-# Frontend Mentor - Advice generator app
+# Advice generator app
 
 # About this
 
@@ -6,7 +6,9 @@ This is a Frontend Mentor challenge project so I can test my JS skills, to build
 
 Feel free to use this!
 
+See this DEMO on how to use it.
 
+>[!VIDEO](demo.mp4)
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
