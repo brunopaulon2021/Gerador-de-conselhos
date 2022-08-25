@@ -8,11 +8,11 @@ Feel free to use this!
 
 See this DEMO on how to use it.
 
->[!VIDEO](demo.mp4)
+>[!VIDEO](https://vimeo.com/743086678)
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
-
-
+![image](https://www.flickr.com/photos/196366226@N04/52310087411/in/dateposted-public/)
+![image](https://www.flickr.com/photos/196366226@N04/52309364117/in/dateposted-public/)
+![image](https://www.flickr.com/photos/196366226@N04/52310087426/in/dateposted-public/)
 ## The challenge
 
 Your users should be able to:
