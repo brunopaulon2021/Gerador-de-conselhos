@@ -8,7 +8,7 @@ Feel free to use this!
 
 See this DEMO on how to use it.
 
->[!VIDEO](https://vimeo.com/743086678)
+<video src="demo.mp4"></video>
 
 ![image](https://www.flickr.com/photos/196366226@N04/52310087411/in/dateposted-public/)
 ![image](https://www.flickr.com/photos/196366226@N04/52309364117/in/dateposted-public/)
